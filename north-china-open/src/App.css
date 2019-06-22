@@ -1,0 +1,289 @@
+section {
+  margin: 0 !important;
+}
+body {
+  overflow-x: hidden;
+  max-width: 100vw;
+}
+
+.date {
+  font-size: 400%;
+}
+@media(max-width: 1024px) {
+  .date {
+    font-size: 200%;
+  }
+}
+
+.CNEN {
+  position: relative;
+  z-index: 990;
+  background-color: #221;
+  padding: 10px;
+}
+.CNEN p {
+  margin: 0;
+}
+
+.MetalBG {
+  background-image: url(./img/metal-wide.jpeg); 
+  background-size: auto 100%;
+  background-position: center;
+}
+
+.greenBtn {
+  display: inline-block;
+  font-family: 'Staatliches';
+  text-decoration: none;
+  font-size: 160%;
+  padding: 15px;
+  margin-right: 10px;
+  color: #fff;
+  background-color: green;
+  text-align: center;
+  border: none;
+}
+@media(max-width: 1024px) {
+  .greenBtn {
+    display: block;
+    margin: 0 0 10px 0;
+  }
+}
+
+.SignupForm {
+  position: relative;
+  z-index: 999;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0px 0px 40px #000;
+  background-size: 100% 100%;
+  padding: 35px;
+}
+.SignupForm p {
+  display: inline-block;
+  font-size: 100%;
+  font-weight: 600;
+  color: #000;
+  width: 50%;
+  padding: 5px 0;
+  margin: 0;
+}
+.SignupForm h1 {
+  font-size: 400%;
+  color: #000;
+  border: none;
+  padding-left: 0;
+}
+.SignupForm input, .SignupForm textarea {
+  width: 85%;
+  background-color: #fff;
+  border: 1px solid #aaa;
+  border-radius: 5px;
+  padding: 10px;
+  box-shadow: inset 0px 0px 5px #aaa;
+}
+
+@media(max-width: 1024px) {
+  .SignupForm p {
+    width: 100%;
+  }
+  .SignupForm h1 {
+    font-size: 300%;
+  }
+  .SignupForm input, .SignupForm textarea {
+    width: 90%;
+  }
+}
+
+.Hero {
+  max-width: 100vw;
+  overflow: hidden;
+  margin: 0 auto;
+  padding: 10vh 10vw;
+  background-color: #555;
+  background-image: url(./img/hero-bg.jpeg);
+  box-shadow: inset 0 0 120px #000;
+  background-size: cover;
+  background-position: bottom;
+}
+@media(max-width: 1024px) {
+  .Hero {
+    padding: 200px 40px 40px 40px;
+  }
+}
+
+.CTA {
+  position: relative;
+  z-index: 20;
+  max-width: 40vw;
+}
+
+.HeroCopyWrapper {
+  background-image: url(./img/metal.jpeg);
+  background-size: 100% 100%;
+  border-radius: 5px;
+  box-shadow: 0px 0px 40px #000;
+  margin-bottom: 30px;
+}
+.HeroCopy {
+  padding: 60px;
+  text-shadow: 0 0 20px rgba(255,185,100,0.8);
+}
+.HeroCopy h1, .HeroCopy h2 {
+  color: #000; 
+  border-left: 10px solid #000;
+}
+
+@media(max-width: 1024px) {
+  .CTA {
+    max-width: 100vw;
+  }
+  .HeroCopyWrapper {
+    max-width: 100vw;
+  }
+  .HeroCopy {
+    padding: 45px;
+    grid-column: 1 / span 12;
+    grid-row: 1 / span 1;
+    max-width: 100vw;
+  }
+}
+
+.HeroCopy h1 {
+  font-size: 750%;
+}
+@media (max-width: 1024px) {
+  .HeroCopy h1 {
+    font-size: 350%;
+  }
+}
+
+.HeroCopy h2 {
+  margin-bottom: 0;
+}
+
+
+.NCOLogo {
+  position: absolute;
+  top: -30px;
+  right: -30px;
+  z-index: 999;
+  height: 450px;
+  width: 500px;
+  background-image: url(./img/logo.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  filter: opacity(80%);
+  transform: rotate(10deg); 
+}
+@media(max-width: 1024px) {
+  .NCOLogo {
+    top: 40px;
+    right: 100px;
+    height: 300px;
+    width: 250px;
+    filter: opacity(100%);
+  }
+}
+
+.ServoSkull {
+  position: absolute;
+  background-image: url(./img/servo-skull.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  filter: blur(2px);
+}
+#skull1 {
+  top: 28vh; 
+  z-index: 50;
+  width: 300px;
+  height: 200px;
+  animation: skullFloat 60s linear infinite;
+}
+#skull2 {
+  top: 14vh; 
+  z-index: 5;
+  width: 250px;
+  height: 170px;
+  animation: skullFloatReverse 120s linear infinite;
+}
+#skull3 {
+  top: 49vh; 
+  z-index: 50;
+  width: 200px;
+  height: 150px;
+  animation: skullFloat 90s linear infinite;
+}
+#skull4 {
+  top: 63vh; 
+  z-index: 5;
+  width: 150px;
+  height: 100px;
+  animation: skullFloatReverse 60s linear infinite;
+}
+#skull5 {
+  top: 38vh; 
+  z-index: 5;
+  width: 270px;
+  height: 150px;
+  animation: skullFloatReverse 90s linear infinite;
+}
+#skull6 {
+  top: 7vh; 
+  z-index: 5;
+  width: 100px;
+  height: 70px;
+  animation: skullFloat 70s linear infinite;
+}
+#skull7 {
+  top: 42vh; 
+  z-index: 5;
+  width: 120px;
+  height: 90px;
+  animation: skullFloatReverse 180s linear infinite;
+  filter: blur(2px) brightness(0.3);
+}
+#skull8 {
+  top: 24vh; 
+  z-index: 5;
+  width: 180px;
+  height: 120px;
+  animation: skullFloat 110s linear infinite;
+  filter: blur(2px) brightness(0.3);
+}
+#skull9 {
+  top: 52vh; 
+  z-index: 5;
+  width: 100px;
+  height: 70px;
+  animation: skullFloat 70s linear infinite;
+  filter: blur(2px) brightness(0.3);
+}
+@keyframes skullFloat {
+  0% { right: -400px; transform: scaleX(1); }
+  30% { right: calc(100vw + 400px); transform: scaleX(1); }
+  50% { right: calc(100vw + 400px); transform: scaleX(-1); }
+  80% { right: -400px; transform: scaleX(-1); }
+  100% { right: -400px; transform: scaleX(-1); }
+}
+/*@keyframes skullFloat {
+  0% { right: -20vw; transform: scaleX(1); }
+  30% { right: 120vw; transform: scaleX(1); }
+  50% { right: 120vw; transform: scaleX(-1); }
+  80% { right: -20vw; transform: scaleX(-1); }
+  100% { right: -20vw; transform: scaleX(-1); }
+}*/
+@keyframes skullFloatReverse {
+  0% { right: calc(100vw + 400px); transform: scaleX(-1); }
+  30% { right: -400px; transform: scaleX(-1); }
+  50% { right: -400px; transform: scaleX(1); }
+  80% { right: calc(100vw + 400px); transform: scaleX(1); }
+  100% { right: calc(100vw + 400px); transform: scaleX(1); }
+}
+/*@keyframes skullFloatReverse {
+  0% { right: 120vw; transform: scaleX(-1); }
+  30% { right: -20vw; transform: scaleX(-1); }
+  50% { right: -20vw; transform: scaleX(1); }
+  80% { right: 120vw; transform: scaleX(1); }
+  100% { right: 120vw; transform: scaleX(1); }
+}*/

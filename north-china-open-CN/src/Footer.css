@@ -1,0 +1,41 @@
+.SponsorWrapper {
+  text-align: center;
+  max-width: 1200px;
+  height: 20vh;
+  margin: 0 auto;
+  padding: 30px;
+}
+.Sponsor {
+  display: inline-block;
+  min-width: 140px;
+  min-height: 80%;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-right: 60px;
+}
+@media(max-width: 1024px) {
+  .Sponsor {
+    margin: 0;
+  }
+}
+#itc-logo {
+  background-image: url(./img/itc-logo.png);
+}
+#gamemat-logo {
+  background-image: url(./img/gamemat-logo.png);
+}
+#tablewar-logo {
+  background-image: url(./img/tablewar-logo.png);
+}
+
+.CopyrightNotice {
+  color: #000;
+  text-align: center;
+  padding-bottom: 60px;
+}
+@media(max-width: 1024px) {
+  .CopyrightNotice {
+    padding-top: 90px;
+  }
+}
