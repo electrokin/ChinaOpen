@@ -23,7 +23,7 @@ class PaintingDetails extends Component {
 
           <div className="PageHeader">
             <h1>HOBBY DETAILS</h1>
-            <h2>Painting and Modeling for the North China Open</h2>
+            <h2>Painting and Modeling for the East China Open</h2>
             <p>For full details on modelling, painting and basing your models for an ITC, as well as guidelines on 'counts as', proxies and conversions, read on.</p>
             <p>If you are looking for rules guidelines for planning and submitting your army list, check out <a href="/army">this page</a> instead.</p>
           </div>      
@@ -34,7 +34,7 @@ class PaintingDetails extends Component {
             <div className="SectionCopy">
               <h1>THE BASICS</h1>
               <h2>What to bring</h2>
-              <p>All five rounds of the NCO will be played with 2000 point armies using the Matched Play Recommendations from the Warhammer 40,000 8th Edition Ruleset and Frontline Gaming's ITC rules.</p>
+              <p>All five rounds of the ECO will be played with 2000 point armies using the Matched Play Recommendations from the Warhammer 40,000 8th Edition Ruleset and Frontline Gaming's ITC rules.</p>
               <ul><h2>SUMMARY:</h2>
                 <li>WYSIWYG: Every model in your army must accurately reflect its rules to a reasonable degree. Minor exceptions may be approved for wargear such as grenades and pistols, or suitably clear conversions.</li>
                 <li>All models must be painted to at least a 3 colour minimum - more on this later.</li>
@@ -75,7 +75,7 @@ class PaintingDetails extends Component {
             <div className="SectionCopy">
               <h1>PAINTING</h1>
               <h2>The three colour minimum, defined</h2>
-              <p>The NCO requires that all models in a player's army <i>must</i> be fully painted to at least a three colour minimum, as per ITC suggested rules.</p>
+              <p>The ECO requires that all models in a player's army <i>must</i> be fully painted to at least a three colour minimum, as per ITC suggested rules.</p>
               <p>Minimum painting standards vary between individuals and it is not always obvious to everyone what this means, so to be clear:</p>
 
               <div className="PaintingStandards">
@@ -102,7 +102,7 @@ class PaintingDetails extends Component {
             <div className="SectionCopy">
               <h1>BASING</h1>
               <h2>It's not optional</h2>
-              <p>In addition to the painting and modelling requirements above, the NCO requires that all players' models are based appropriately.</p>
+              <p>In addition to the painting and modelling requirements above, the ECO requires that all players' models are based appropriately.</p>
               <p>This means that at least one colour must be applied to the whole base and that some texture is added. We believe it should be possible to achieve this basic level on an entire army in short duration, so there is no excuse for showing up with an unbased force. Other than that, there are no stringent requirements, so have fun with it.</p>
               <p>Exceptions will be made in the case of models which do not include bases or those which include clear plastic flight stands. Furthermore, if you would prefer to base your entire army on clear acrylic bases or other similar non-standard methods, this is also fine as long as they are the correct size and shape.</p>
               <p>A compilation of accepted base sizes, based on what is currently sold with the models, has been provided by <a href="https://www.dakkadakka.com/wiki/en/Basing_Guidelines_for_Warhammer_40,000">Dakka Dakka</a>. Note that this is not a definitive guide and exceptions may be made for older models using the bases they were provided with - e.g. Space Marines on 25mm bases are still acceptable, though 90s Terminators on small bases are up for debate.</p>
