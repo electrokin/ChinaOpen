@@ -12,7 +12,7 @@ class TranslationSection extends Component {
           <div className="BCPCopy">
             <h1>Chinese Language Support</h1>
             <h2>Translation Support Available throughout the Event</h2>
-            <p>The NCO will feature on-site bilingual judges, ready to help with any rules queries or unclear translations. We aim to provide a fair playing field for both local and foreign players.</p>
+            <p>The ECO will feature on-site bilingual judges, ready to help with any rules queries or unclear translations. We aim to provide a fair playing field for both local and foreign players.</p>
           </div>
 
           <div className="TranslationImage"></div>
