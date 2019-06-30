@@ -32,7 +32,7 @@ class DetailsSection extends Component {
             <h2>THE THREE COLOUR MINIMUM</h2>
             <p>Ensure your army meets the minimum painting and modelling requirements and is legal for use in the event.</p>
             <br />
-            <a href="/painting" className="greenBtn">HOBBY GUIDELINES</a>
+            <a href="/PaintingDetails" className="greenBtn">HOBBY GUIDELINES</a>
           </div> 
 
         </div>
