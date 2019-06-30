@@ -22,7 +22,7 @@ class ArmyDetails extends Component {
         <div className="SectionWrapper MetalBG">
           <div className="PageHeader">
             <h1>PLANNING YOUR ARMY</h1>
-            <h2>How to build an army list for the North China Open</h2>
+            <h2>How to build an army list for the East China Open</h2>
             <p>For full details on how to create a valid army list for ITC events and making use of the correct publications and rulesets, read on.</p>
             <p>If you are looking for hobby guidelines for building and painting your army, check out <a href="/painting">this page</a> instead.</p>
           </div>      
@@ -32,11 +32,10 @@ class ArmyDetails extends Component {
           <div className="SectionCopy">
             <h1>THE BASICS</h1>
             <h2>What to bring</h2>
-            <p>All five rounds of the NCO will be played with 2000 point armies using the Matched Play Recommendations from the Warhammer 40,000 8th Edition Ruleset and Frontline Gaming's ITC rules.</p>
+            <p>All five rounds of the ECO will be played with 2000 point armies using the Matched Play Recommendations from the Warhammer 40,000 8th Edition Ruleset and Frontline Gaming's ITC rules.</p>
             <ul><h2>SUMMARY:</h2>
               <li>A total points limit of 2000, and not a single point over!</li>
               <li>No more than 3 Detachments</li>
-              <li>No single model with a Power Level of 32 or higher may be used.</li>
             </ul>
             <p>All units in each detachment of your Battle-Forged army must share at least one Faction Keyword, excluding those in the table below:</p>
 
@@ -53,7 +52,7 @@ class ArmyDetails extends Component {
             <p>Note that this has no effect on your Army Faction. This means, for example, that your army may consist of an Astra Militarum detachment and an Imperial Knights detachment sharing the Imperium faction keyword.</p>
             <p>Please keep in mind that each Tournament Round will be limited to <strong>3 HOURS</strong> and judges will ensure that games progress acceptably.</p>
             <p>Be courteous and bring an army you can reasonably expect to finish on time with. Nobody wants to run out of time while you move 300 Grots!</p>
-            <p>Remember to submit your army list on the BCP Player App by May 4th for approval.</p>
+            <p>Remember to submit your army list on the BCP Player App by Sep 1st for approval.</p>
             <p><strong>TIP: Check out the <a href="/details">ITC Simplified Missions</a> first and plan a force with your mission objectives in mind.</strong></p>
             <p>Make sure your list clearly states all custom details such as your Warlord and his Trait, all wargear options, detachment benefits, faction keywords and command points awarded, and any other decisions made before the battle begins.</p>
             <p>If any of these rules are unclear now or on the day of the event, reach out for support from our bi-lingual judges and organisers.</p>
@@ -77,7 +76,7 @@ class ArmyDetails extends Component {
               <li>Matched Play rules from White Dwarf and Warhammer Community.</li>
               <li>All official Erratat and FAQ documents from Games Workshop and Forgeworld.</li>
             </ul>
-            <p>The cut off point for new approved publications is one month before the event, so if Codex: Squats comes out on the 30th of April, we sadly cannot allow it.</p>
+            <p>The cut off point for new approved publications is one month before the event, so if Codex: Squats comes out on the 14th of August, we sadly cannot allow it.</p>
             <p>It should be noted that only Warhammer 40,000 units may be used - no Horus Heresy or armies from other systems are included.</p>
           </div>
         </div>
