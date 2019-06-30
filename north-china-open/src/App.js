@@ -34,9 +34,9 @@ class App extends Component {
           <div className="CTA">
             <div className="HeroCopyWrapper">
               <div className="HeroCopy">
-                <h2 className="date">MAY 18th-19th, TIANJIN</h2>
-                <h1>SIGN UP NOW FOR NCO 2019</h1>
-                <h2 className="HeroCopyTagline">Mainland China's First Warhammer 40,000 ITC Event</h2>
+                <h2 className="date">Sep 14th-15th, SHANGHAI</h2>
+                <h1>SIGN UP NOW FOR ECO 2019</h1>
+                <h2 className="HeroCopyTagline">Mainland China's biggest Warhammer 40,000 ITC Event</h2>
                 <br />
               </div>
             </div>
