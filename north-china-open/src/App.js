@@ -16,7 +16,7 @@ class App extends Component {
     return (
       <div>
       
-<div className="CNEN"><p>CN/EN: 用<a href="https://cn.northchinaopen.com">中文</a>看这个页面 </p></div>
+<div className="CNEN"><p>CN/EN: 用<a href="https://cn.warhammerchina.com">中文</a>看这个页面 </p></div>
 
         <div className="Hero">
           <div className="NCOLogo"></div>
