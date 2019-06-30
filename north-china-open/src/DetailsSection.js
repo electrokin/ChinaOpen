@@ -14,7 +14,7 @@ class DetailsSection extends Component {
           <div className="ThreeColumn">
             <h1>EVENT DETAILS</h1>
             <h2>THE WHERE & WHEN?</h2>
-            <p>Coming from out of town? Plan your trip to TianJin in advance to avoid getting lost or showing up late.</p>
+            <p>Coming from out of town? Plan your trip to Shanghai in advance to avoid getting lost or showing up late.</p>
             <br />
             <a href="/details" className="greenBtn">EVENT DETAILS</a>
           </div> 
@@ -22,7 +22,7 @@ class DetailsSection extends Component {
           <div className="ThreeColumn">
             <h1>BATTLE FORGED</h1>
             <h2>2000 POINTS, 3 DETACHMENTS</h2>
-            <p>Be sure to check out the full details on Force Composition before submitting your list by the 4th of May.</p>
+            <p>Be sure to check out the full details on Force Composition before submitting your list by the 1st of September.</p>
             <br />
             <a href="/army" className="greenBtn">ARMY LIST GUIDELINES</a>
           </div>
