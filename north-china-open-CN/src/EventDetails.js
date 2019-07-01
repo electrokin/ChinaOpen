@@ -17,7 +17,7 @@ class EventDetails extends Component {
     return (
       <div>
 
-      <div className="CNEN"><p>CN/EN: Looking for this page in English? Check out the English site <a href="https://www.northchinaopen.com">here</a>.</p></div>
+      <div className="CNEN"><p>CN/EN: Looking for this page in English? Check out the English site <a href="https://www.Chinawarhammer.com">here</a>.</p></div>
       
         <a href="/" className="NCOLogo"> </a>
 
@@ -25,7 +25,7 @@ class EventDetails extends Component {
 
           <div className="PageHeader">
             <h1>赛事详情</h1>
-            <h2>下文包括关于华北公开赛的赛制</h2>
+            <h2>下文包括关于华东公开赛的赛制</h2>
             <p>翻译、奖品、场馆与交通路线等内容的详情。</p>
           </div>      
 
@@ -35,8 +35,8 @@ class EventDetails extends Component {
           <div className="SectionWrapper">
             <div className="SectionCopy">
               <h1>赛事赛制规则</h1>
-              <p>华北公开赛将于5月18-19日（周末）于中国天津市举办，赛事为ITC认证的战锤40K比赛。</p>
-              <p>赛事包括5轮，使用NCO2019编写的 <a href="https://docs.google.com/document/d/1bUs0HrJ3f6YzR6mWlT1LRLq0i9_0ekf7ah9WhCTxsIo/edit?usp=sharing">ITC</a>赛制 <a href="https://docs.google.com/document/d/18u16xnoStYHxTUL0Eodjk3kTR4MCn9zyF1r3sZkOgfo/edit">与任务规则。</a>每轮中选手们将有3小时用于完成该轮对战 </p>
+              <p>华北公开赛将于9月14-15日（周末）于中国天津市举办，赛事为ITC认证的战锤40K比赛。</p>
+              <p>赛事包括5轮，使用ECO2019编写的 <a href="https://docs.google.com/document/d/1bUs0HrJ3f6YzR6mWlT1LRLq0i9_0ekf7ah9WhCTxsIo/edit?usp=sharing">ITC</a>赛制 <a href="https://docs.google.com/document/d/18u16xnoStYHxTUL0Eodjk3kTR4MCn9zyF1r3sZkOgfo/edit">与任务规则。</a>每轮中选手们将有3小时用于完成该轮对战 </p>
               <p>赛事使用战锤40K官方第8版规则中对战模式（Matched Play）的规定与建议，详见规则书与FAQ <a href="https://www.games-workshop.com/en-US/Warhammer-40000-rulebook-eng-2017">Rulebook</a>.</p>
               <p>ITC标准比赛规模是2000分</p>
               <p>军表组建的详细规定见 <a href="/army">此</a>.</p>
