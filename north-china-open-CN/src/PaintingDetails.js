@@ -15,7 +15,7 @@ class PaintingDetails extends Component {
     return (
       <div>
 
-      <div className="CNEN"><p>CN/EN: Looking for this page in English? Check out the English site <a href="https://www.northchinaopen.com">here</a>.</p></div>
+      <div className="CNEN"><p>CN/EN: Looking for this page in English? Check out the English site <a href="https://www.chinawarhammer.com">here</a>.</p></div>
       
         <a href="/" className="NCOLogo"> </a>
 
