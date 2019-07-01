@@ -42,7 +42,7 @@ class EventDetails extends Component {
               <p><strong>ITC standard games will be played at 2000 points.</strong></p>
               <p>Full army composition rules can be found <a href="/army">here</a>.</p>
               <br />
-              <p><strong>Download the full ITC rules pack for this event <a href={ECO champs missions v2.pdf} download>here</a>.</strong></p>
+              <p><strong>Download the full ITC rules pack for this event <a href={ECOmissions.pdf} download>here</a>.</strong></p>
             </div>
             
             <div className="SectionCopy">
