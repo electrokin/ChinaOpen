@@ -49,20 +49,23 @@ class EventDetails extends Component {
             </div>
             <div className="SectionSpare">
               <h1>星期六</h1>
-              <p><strong>8:00-8:30</strong> 球员简报</p>
+        <p><strong>8:00-8:15</strong> 球员简报</p>
+              <p><strong>8:15-8:30</strong> 比赛 1 准备</p>
               <p><strong>8:30-11:30</strong> 比赛 1</p>
-              <p><strong>11:30-12:15</strong> 午餐 (包含)  </p>
-              <p><strong>12:15-3:15</strong> 比赛 2</p>
-              <p><strong>3:30-6:30</strong> 比赛 3</p>
+              <p><strong>11:30-12:00</strong> 午餐</p>
+              <p><strong>12:00-12:15</strong> 比赛 2 准备</p>
+              <p><strong>12:15-15:15</strong> 比赛 2</p>
+              <p><strong>15:15-15:30</strong> 比赛 3 准备</p>
+              <p><strong>15:30-18:30</strong> 比赛 3</p>
             </div>
             <div className="SectionSpare">
-              <h1>星期日</h1>
-              <p><strong>8:30-11:30</strong> 比赛 4</p>
-              <p><strong>11:30-12:15</strong> 午餐 (包含) </p>
-              <p><strong>12:15-3:15</strong> 决赛</p>
-              <p><strong>3:15-4:00</strong> 奖品</p>
-            </div>
-
+              <h1>Sunday</h1>
+              <p><strong>8:00-8:15</strong> 比赛 4 准备e</p>
+              <p><strong>8:15-11:15</strong> 比赛 4</p>
+              <p><strong>11:15-11:45</strong> 休息 </p>
+              <p><strong>11:45-12:00</strong> 比赛 5 准备</p>
+              <p><strong>12:00-15:00</strong> 比赛 5 </p>
+              <p><strong>15:00-15:30</strong>  奖品s</p>
           </div>
 
           <TranslationSection />
