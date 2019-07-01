@@ -22,7 +22,7 @@ class DetailsSection extends Component {
           <div className="ThreeColumn">
             <h1>战火锤炼</h1>
             <h2>2000分，3个分队</h2>
-            <p>提交军表前，请务必确认您的部队组成无误，提交截止日期为5月4日</p>
+            <p>提交军表前，请务必确认您的部队组成无误，提交截止日期为9月1日</p>
             <br />
             <a href="/army" className="greenBtn">军表编写须知</a>
           </div>
