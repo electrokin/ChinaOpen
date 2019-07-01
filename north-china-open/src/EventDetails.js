@@ -37,7 +37,7 @@ class EventDetails extends Component {
               <h1>EVENT FORMAT</h1>
               <h2>A.K.A. THE RULES</h2>
               <p>The East China Open is an ITC sanctioned Warhammer 40K Tournament held on the weekend of the 14th - 15th of September in Shanghai, China.</p>
-              <p>The event will consist of five rounds held over two days, using Frontline Gaming's <a href="https://docs.google.com/document/d/1bUs0HrJ3f6YzR6mWlT1LRLq0i9_0ekf7ah9WhCTxsIo/edit?usp=sharing">ITC Rules</a> and ITC <a href="https://docs.google.com/document/d/18u16xnoStYHxTUL0Eodjk3kTR4MCn9zyF1r3sZkOgfo/edit">Simplified Missions</a>. Players will have up to 3 hours to complete a single mission.</p>
+              <p>The event will consist of five rounds held over two days, using Frontline Gaming's <a href="https://docs.google.com/document/d/1bUs0HrJ3f6YzR6mWlT1LRLq0i9_0ekf7ah9WhCTxsIo/edit?usp=sharing">ITC Rules</a> and ITC <a href="https://docs.google.com/document/d/18u16xnoStYHxTUL0Eodjk3kTR4MCn9zyF1r3sZkOgfo/edit">Champions Missions</a>. Players will have up to 3 hours to complete a single mission.</p>
               <p>We willl be using the Matched Play Recommendations from the Warhammer 40,000 8th Edition ruleset, which can be found in the main <a href="https://www.games-workshop.com/en-US/Warhammer-40000-rulebook-eng-2017">Rulebook</a>.</p>
               <p><strong>ITC standard games will be played at 2000 points.</strong></p>
               <p>Full army composition rules can be found <a href="/army">here</a>.</p>
