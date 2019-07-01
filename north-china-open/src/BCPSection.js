@@ -16,7 +16,7 @@ class BCPSection extends Component {
           <div className="BCPCopy">
             <h1>Sign up now with<br />  BCP Player</h1>
             <h2>AVAILABLE ON THE APPSTORE, GOOGLE PLAY & APKPURE</h2>
-            <p>Download the Best Coast Pairings mobile app and search 'North China Open' to register today. Completed army rosters are due by the 4th of May 2019.</p>
+            <p>Download the Best Coast Pairings mobile app and search 'East China Open' to register today. Completed army rosters are due by the 4th of May 2019.</p>
             <br />
           </div>
 
