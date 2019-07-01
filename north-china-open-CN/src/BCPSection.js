@@ -16,7 +16,7 @@ class BCPSection extends Component {
           <div className="BCPCopy">
             <h1>赶快通过BCP Player注册吧</h1>
             <h2>APPLE APPSTORE, GOOGLE PLAY & APKPURE</h2>
-            <p>下载“Best Coast Pairings mobile”APP，搜索“North China Open”来进行注册。完整军表的提交截止日期为2019年5月4日。</p>
+            <p>下载“Best Coast Pairings mobile”APP，搜索“East China Open”来进行注册。完整军表的提交截止日期为2019年5月4日。</p>
             <br />
           </div>
 
