@@ -16,7 +16,7 @@ class App extends Component {
     return (
       <div>
       
-        <div className="CNEN"><p>CN/EN: Looking for this page in English? Check out the English site <a href="https://www.northchinaopen.com">here</a>.</p></div>
+        <div className="CNEN"><p>CN/EN: Looking for this page in English? Check out the English site <a href="https://www.chinawarhammer.com">here</a>.</p></div>
 
         <div className="Hero">
           <div className="NCOLogo"></div>
@@ -35,8 +35,8 @@ class App extends Component {
             <div className="HeroCopyWrapper">
               <div className="HeroCopy">
                 <h2 className="date">2019/05/18-19th</h2>
-                <h1>2019华北公开赛注册</h1>
-                <h2 className="HeroCopyTagline">中国大陆地区首个ITC认证的战锤40000比赛</h2>
+                <h1>2019华东公开登记</h1>
+                <h2 className="HeroCopyTagline">中国大陆最大的ITC认证Warhammer 4000比赛</h2>
                 <br />
               </div>
             </div>
