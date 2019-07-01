@@ -17,7 +17,7 @@ class EventDetails extends Component {
     return (
       <div>
 
-<div className="CNEN"><p>CN/EN: 用<a href="https://cn.northchinaopen.com">中文</a>看这个页面 </p></div>      
+<div className="CNEN"><p>CN/EN: 用<a href="https://cn.chinawarhammer.com">中文</a>看这个页面 </p></div>      
       
         <a href="/" className="NCOLogo"> </a>
 
