@@ -66,6 +66,7 @@ class EventDetails extends Component {
               <p><strong>11:45-12:00</strong> 比赛 5 准备</p>
               <p><strong>12:00-15:00</strong> 比赛 5 </p>
               <p><strong>15:00-15:30</strong>  奖品s</p>
+            </div>
           </div>
 
           <TranslationSection />
