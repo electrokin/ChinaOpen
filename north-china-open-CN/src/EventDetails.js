@@ -8,7 +8,7 @@ import Footer from './Footer';
 import TranslationSection from './TranslationSection';
 import BCPSection from './BCPSection';
 
-import missionsPDF from './missions.pdf';
+import missionsPDF from './ECO champs missions v2.pdf';
 
 class EventDetails extends Component {
 
@@ -41,7 +41,7 @@ class EventDetails extends Component {
               <p>ITC标准比赛规模是2000分</p>
               <p>军表组建的详细规定见 <a href="/army">此</a>.</p>
               <br />
-              <p><strong>点此<a href={ECO champs missions v2.pdf} download>下载</a>规则全文.</strong></p>
+              <p><strong>点此<a href={missionsPDF} download>下载</a>规则全文.</strong></p>
             </div>
             
             <div className="SectionCopy">
