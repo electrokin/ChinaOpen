@@ -8,7 +8,7 @@ import Footer from './Footer';
 import TranslationSection from './TranslationSection';
 import BCPSection from './BCPSection';
 
-import missionsPDF from './missions.pdf';
+import missionsPDF from './ECO champs missions v2.pdf';
 
 class EventDetails extends Component {
 
@@ -42,7 +42,7 @@ class EventDetails extends Component {
               <p><strong>ITC standard games will be played at 2000 points.</strong></p>
               <p>Full army composition rules can be found <a href="/army">here</a>.</p>
               <br />
-            <p><strong>点此<a href={ECOmissions.pdf} download>下载</a>规则全文.</strong></p>
+            <p><strong>点此<a href={missionsPDF} download>下载</a>规则全文.</strong></p>
             </div>
             
             <div className="SectionCopy">
