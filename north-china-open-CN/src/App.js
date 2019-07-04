@@ -34,8 +34,8 @@ class App extends Component {
           <div className="CTA">
             <div className="HeroCopyWrapper">
               <div className="HeroCopy">
-                <h2 className="date">2019/05/18-19th</h2>
-                <h1>2019华东公开登记</h1>
+                <h2 className="date">2019/09/14-15th</h2>
+                <h1>2019华北战锤登记</h1>
                 <h2 className="HeroCopyTagline">中国大陆最大的ITC认证Warhammer 4000比赛</h2>
                 <br />
               </div>
